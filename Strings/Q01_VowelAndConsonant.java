@@ -1,4 +1,4 @@
-public class Main {
+public class VowelAndConsonant {
     public static void main(String[] args) {
 
         String str = "Hello World";
