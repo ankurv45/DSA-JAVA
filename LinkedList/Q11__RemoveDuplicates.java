@@ -6,7 +6,7 @@ class Node{
             this.next = null;
         }
 }
-class RemoveDuplicates {
+class RemoveDuplicate {
     public static void main(String[] args) {
 
      Node n1 = new Node(10);
